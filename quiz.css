@@ -1,0 +1,22 @@
+body {
+  background-color: #a6ee5f;
+}
+h1 {
+  text-align: center;
+}
+
+a {
+  padding-left: 30px;
+  text-align: center;
+  margin: auto;
+  /*  background-color:;*/
+  color: rgb(3, 3, 21);
+}
+button {
+  background-color: beige;
+  border-radius: 2rem;
+}
+nav {
+  padding-top: 30px;
+  text-align: center;
+}

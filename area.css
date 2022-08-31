@@ -1,0 +1,35 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+.container {
+  margin: auto;
+  text-align: center;
+  padding-top: 30px;
+  width: 400px;
+  height: 400px;
+  background-color: rgba(0, 0, 0, 0.2);
+  margin-top: 50px;
+  border-radius: 2rem;
+}
+nav {
+  padding-top: 30px;
+  text-align: center;
+}
+input {
+  border-radius: 0.2rem;
+  padding: 8px;
+}
+#button {
+  width: 7rem;
+  text-align: center;
+  border-radius: 2px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+a {
+  padding-left: 30px;
+  text-align: center;
+  margin: auto;
+  color: rgb(7, 7, 46);
+}
