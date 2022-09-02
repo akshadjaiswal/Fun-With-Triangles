@@ -15,7 +15,7 @@ function isTriangle() {
     Number(inputs[2].value)
   );
 
-  if (sumOfAngles >= 180) {
+  if (sumOfAngles === 180) {
     outputE1.innerText = "YAY! ,The angles form a triangle";
   } else {
     outputE1.innerText = "oh oh!, The angles don't form a triangle";
