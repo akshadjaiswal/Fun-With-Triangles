@@ -7,8 +7,8 @@
 *You can explore it and play with it.
 *This project is made for Fun
 
-## Language Used
+## Languages Used:
 
-*HTML5.
-*CSS3.
-*JavaScript.
+HTML5.
+CSS3.
+JavaScript.
