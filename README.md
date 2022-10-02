@@ -5,7 +5,8 @@
 
 - Here we add some mcq type questions about Triangle.
 - You can explore it and play with it.
-- This project is made for Fun
+- This project is made for Fun.
+- Project link - https://akshadjaiswal-fun-with-triangles.netlify.app/
 
 ## Languages Used:
 
